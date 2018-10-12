@@ -18,5 +18,5 @@ server:
   port: 8081
 
 girl:
-  name: yyy
-  age: 18
+  name: zzz
+  age: 20
